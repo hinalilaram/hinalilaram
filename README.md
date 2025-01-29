@@ -1,8 +1,4 @@
-**Machine Learning Engineer | Full-Stack Developer | Data Alchemist**
-
-Passionate about data driven solutions.
-
-- 👩 Machine Learning Applied Scientist at [AWS GenAI Innovation Center](https://aws.amazon.com/ai/generative-ai/innovation-center/)
+- 👩 Machine Learning Engineer | Full-Stack Developer | Data Alchemist
 - 🚀 Currently hacking the future of AI/ML
 - 🎓 B.Eng Computer Systems Engineering from MUET
 <!-- 
@@ -15,6 +11,4 @@ Passionate about data driven solutions.
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)](https://scholar.google.com/citations?user=pqvz1YYAAAAJ&hl=en)
 
 ### **Stats**!**
-![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinalilaram&show_icons=true&theme=algolia)
-
-![Hina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&size_weight=0.5&count_weight=0.5&theme=algolia)
+![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinalilaram&show_icons=true&theme=algolia)![Hina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&size_weight=0.5&count_weight=0.5&theme=algolia)
