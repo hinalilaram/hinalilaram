@@ -1,49 +1,16 @@
-# Hina Lilaram 👩💻✨  
 **Machine Learning Engineer | Full-Stack Developer | Data Alchemist**
 
-Passionate about transforming data into actionable insights and building scalable solutions. *Currently hacking the future of AI/ML* 🚀  
+Passionate about data driven real world problem solving solutions.
 
----
+-  Senior Applied Scientist at [AWS GenAI Innovation Center](https://aws.amazon.com/ai/generative-ai/innovation-center/)
+- 🚀 Currently hacking the future of AI/ML
+- 🎓 [B.Eng Computer Systems Engineering from MUET](https://www.muet.edu.pk/)
+- 🏅 Enjoy challenging myself in [ML competitions](https://kozodoi.me/kaggle/)
 
-### 🔧 **Skills**  
-- **ML/Data Science**: Python, TensorFlow, SQL, EDA, Predictive Analytics  
-- **Full-Stack**: Laravel, REST APIs, JavaScript, Firebase  
-- **Tools**: Git, Agile, Tableau, Power BI  
-
----
-
-### 🚀 **Highlights**  
-- Boosted client revenue by **30%** as a Client Success Manager.  
-- Built **8+ enterprise apps** with 200+ API endpoints.  
-- Published ML research on **DHCP attack detection** ([INCCST’22](link)).  
-- Trained AI models for **diabetic retinopathy detection** (thesis).  
-
----
-
-### 🎓 **Education**  
-**B.E. Computer Systems Engineering**  
-*Mehran University (CGPA: 3.85/4.00)*  
-
----
-
-### 🌟 **Featured Projects**  
-- **Premier League Analysis**: Visualized team/player performance trends.  
-- **Poverty Index Analysis**: Uncovered rural vs. urban disparities.  
-
----
-
-### 📜 **Certifications**  
-Google Data Analytics | Stanford ML | Agile  
-
----
-
-### 🌍 **Volunteer**  
-Empowered women in tech as **ACM Chair** & built websites for non-profits.  
-
----
-
-### 📬 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hinalilaram-blue)](link)  
+### **Let’s Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hinalilaram-blue)](https://www.linkedin.com/in/hinalilaram)  
 📧 `hinalilaram@gmail.com` | 💻 [GitHub](link) | 🌐 [Upwork](link)  
 
-**"Code today, shape tomorrow."** 🤖✨  
+### **Github Stats**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hinalilaram&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
