@@ -12,6 +12,6 @@ Passionate about data driven real world problem solving solutions.
 📧 `hinalilaram@gmail.com` | 💻 [GitHub](link) | 🌐 [Upwork](link)  
 
 ### **Stats**!**
-![Hina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&size_weight=0.5&count_weight=0.5&theme=algolia)
 ![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinalilaram&show_icons=true&theme=algolia)
 
+![Hina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&size_weight=0.5&count_weight=0.5&theme=algolia)
