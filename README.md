@@ -11,7 +11,7 @@ Passionate about data driven real world problem solving solutions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hinalilaram-blue)](https://www.linkedin.com/in/hinalilaram)  
 📧 `hinalilaram@gmail.com` | 💻 [GitHub](link) | 🌐 [Upwork](link)  
 
-### **Stats**
-![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinalilaram&show_icons=true&theme=transparent)
+### **Stats**!**
+![Hina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&size_weight=0.5&count_weight=0.5&theme=algolia)
+![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinalilaram&show_icons=true&theme=algolia)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinalilaram&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
