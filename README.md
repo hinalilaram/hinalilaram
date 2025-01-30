@@ -24,7 +24,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ### Frameworks
-![Laravel](https://img.shields.io/badge/laravel-%D00000.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-D00000.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&style=for-the-badge&logoColor=white)&nbsp;
