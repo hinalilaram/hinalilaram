@@ -1,5 +1,5 @@
 - 👩 Machine Learning Engineer | Full-Stack Developer | Data Alchemist
-- 🚀 Currently hacking the future of AI/ML
+- 🚀 Currently doing Masters in Data Science and AI at Saarland University, Germany
 - 🎓 B.Eng Computer Systems Engineering from MUET
 <!-- 
 [Check out my website](https://hinalilaram.me) with my ML blog, publications and portfolio. -->
